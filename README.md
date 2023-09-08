@@ -6,9 +6,9 @@ Future plans for the project include improving the user interface and security m
 
 In the project directory, you can run:
 
-###npm start
+### `npm start`
 
-Runs the service in the development mode.
-API endpoints at http://localhost:3010.
+Runs the service in the development mode.\
+API endpoints at http://localhost:3010.\
 
 Missing files include node_modules.
