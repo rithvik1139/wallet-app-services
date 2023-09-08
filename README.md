@@ -9,6 +9,6 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the service in the development mode.\
-API endpoints at http://localhost:3010.\
+API endpoints at http://localhost:3010.
 
 Missing files include node_modules.
